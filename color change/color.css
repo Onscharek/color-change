@@ -1,0 +1,4 @@
+.container{text-align: center;margin-top: 20px;}
+#color-box{width: 50%;height: 500px; background-color: coral; text-align: center;margin-left: 25%;}
+#change-color-element{ width: 100%;height: 40px; margin-top: 250px; background-color: rgba(116, 14, 28, 0.505); 
+    color: blanchedalmond; font-size: x-large;font-family: fantasy;text-shadow: 3px 3px black;}
